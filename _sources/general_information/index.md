@@ -7,7 +7,7 @@ titlesonly: true
 ---
 ```
 
- <img src="https://fiebachlab.org/assets/images/FiebachLabLogo.png" alt="Flab logo" width="250" height="200"> 
+ <img src="https://fiebachlab.org/assets/images/FiebachLabLogo.png" alt="Flab logo" width="200" height="150"> 
 
 # [Neuro] - DRhyaDS- Neuronale Sprachverarbeitung - Part 1 (of 2)
 
