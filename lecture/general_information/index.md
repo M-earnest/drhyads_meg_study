@@ -9,6 +9,7 @@ titlesonly: true
 
 ![Flab logo](https://fiebachlab.org/assets/images/FiebachLabLogo.png)
 
+ <img src="https://fiebachlab.org/assets/images/FiebachLabLogo.png" alt="Flab logo" width="50" height="200"> 
 
 # [Neuro] - DRhyaDS- Neuronale Sprachverarbeitung - Part 1 (of 2)
 
