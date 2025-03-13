@@ -10,7 +10,7 @@ titlesonly: true
 ![diler logo](../static/logo.png)
 
 
-# Welcome!
+# Studieninformation
 
 ````{margin}
 ```{warning}
@@ -20,50 +20,53 @@ Please visit these pages again in the next few weeks for further information.
 
 Hello everyone and welcome to the course page for X
 
-## Course name
+## [Neuro] - DRhyaDS- Neuronale Sprachverarbeitung - Part 1 (of 2)
 
-Within this course we will explore X
+Duration: 180 minutes
+Abstract: 	
+[120VPM/~60€] Die AG Kognitive Neuropsychologie sucht **deutsche MuttersprachlerInnen** für eine Studie zur Erforschung der neuronalen Sprachverarbeitung. Mithilfe von MEG/MRT messen wir dazu die Hirnaktivität, während TeilnehmerInnen verschiedene Dialoge hören.
 
-You can use the following sections to navigate through the content of the lecture:
+### Wichtig!
+Da die Labornutzung für unser Team mit hohen Kosten einhergeht, welche nur bei rechtzeitiger Stornierung eines Zeitslots erstattet werden können, achten Sie bitte darauf möglichst mehr als 48 Stunden (idealerweise 60) vor der Testung abzusagen. Vielen Dank!
 
-* [Overview & procedure ](https://m-earnest.github.io/course_template_diler/general_information/overview.html)
+## Studienbeschreibung:
 
-   What's this course all about? How are things implemented and supposed to work?
+Teil 1 des Experiment besteht primär aus einer simplen **passive-listening task**. Probandinnen werden in vier Blöcken je zehn Dialogausschnitte hören, jeweils gefolgt von einer multiple-choice Frage. Zusätzlich werden eine Reihe von “localizer” Experimenten durchgeführt. Hierbei werden Sie eine Reihe simpler Aufgaben bearbeiten (Töne erkennen, Tasten drücken etc.), welche es uns ermöglichen funktionelle Regionen des Gehirns (Sprache, Tonvearbeitung, Motorik) zu identifizieren.
 
-* [General outline](https://m-earnest.github.io/course_template_diler/general_information/outline.html)
+Die aktive Testzeit beträgt ca. eine Stunde, allerdings wird die Vor- und Nachbereitung der Räumlichkeiten und ProbandInnen die restliche Zeit des ersten Termines einnehmen. Bitte beachten Sie hier, dass ProbandInnen sich für die MEG-Messung umziehen müssen, da keine Metallteile in den Messraum mitgebracht werden dürfen. Hierfür werden Räumlichkeiten und Kleidung (medizinische Scrubs) zur Verfügung gestellt.
 
-   What are the specific topics and aspects taught?
+Bitte beachte Sie zusätzlich die unten angeführten Hinweise zur Testung, i.e. am Tag der Testung sollte kein Make-Up oder Unterwäsche mit Metallbügeln getragen werden, sollte eine Seheinschränkung vorliegen, tragen sie bitte Kontaktlinsen.
 
-* [Introduction](https://m-earnest.github.io/course_template_diler/introduction/intro.html)
+Im Anschluss an die Messung wird ein Termin für die nachfolgenden Sitzung (Teil 2) ausgemacht. An diesem Termin wird ein MRT-Bild aufgenommen, um die zeitlich hochauflösenden Aufnahmen des MEGs durch die hohe räumlich Auflösung des MRTs zu ergänzen.
 
-   All things gotta start somewhere, but how?
+Funtionelle und strukturelle Aufnahmen können bei Interesse nach der Tesung an die jeweiligen ProbandInnen ausgegeben werden
 
-* [Content](https://m-earnest.github.io/course_template_diler/content/intro_content.html)
-
-   What is this course gonna contain?
-
-   
-* [Results communication](https://m-earnest.github.io/course_template_diler/general_information/results_communication.html)
-
-   Where should the acquired knowledge to be disseminated?
-
-* [Symposium](https://m-earnest.github.io/course_template_diler/general_information/symposium.html)
-
-   What to do about outreach and discourse creation?
+#### WICHTIG: Bei einer Absage auf Grund von Krankheit etc. bitten wir um eine frühzeitige Absage, da jede wir für jede Testung einen verbindlichen MEG-Termin buchen müssen.
 
 
-* [Diversity, Equity, Inclusion](https://m-earnest.github.io/course_template_diler/general_information/dei.html)
+## Neuroimaging
 
-   What to look out for, what to keep in mind and how to trear each other.
-
-* [Code of Conduct](https://m-earnest.github.io/course_template_diler/general_information/CoC.html)
-
-   Necessities for creating an open, fair, safe and inclusive learning
-   experience.
-
-## I've got a question!
-
-In case you have any questions or difficulties with the lecture and its materials, please don’t hesitate a single second to get in touch with us. A great way to do this is to open an issue on the GitHub site of the course. You can of course further contact us via [E-mail](@psych.uni-frankfurt.de). Every feedback or idea  you might have is highly appreciated and valued.
+### MEG:
+Die Magnetoencephalographie ist eine passive und kontaktlose Messung der elektrischen Aktivität Ihres Gehirns. Die elektrischen Ströme, welche in den Nervenzellen Ihres Gehirns fließen, erzeugen winzige Magnetfelder. Diese werden bei der MEG-Messung von sehr empfindlichen Sensoren aufgenommen, die auf eine Umgebung ohne zusätzliche Störungen z.B. von elektrischen Geräten angewiesen sind. Zu diesem Zweck ist das MEG in einem abgeschirmten Untersuchungsraum untergebracht. Risiken und Nebenwirkungen der MEG-Untersuchung sind nach derzeitigem Kenntnisstand nicht bekannt.
 
 
-## Acknowledgements
+### MRT:
+Die Magnetresonanztomografie (MRT) basiert auf einem starken statischen Magnetfeld und magnetischen Wechselfeldern. Es wird keine Röntgenstrahlung oder andere ionisierende Strahlung verwendet. Während der Untersuchung liegen Sie als TeilnehmerIn in der röhrenförmigen Bohrung eines großen Magneten. Risiken können hier bei metallischen oder magnetischen Gegenstände, die sich an oder in Ihrem Körper befinden, auftreten. Zusätzlich wird es währned der MRT-Untersuchung zu einer starken Geräuschentwicklung kommen, weshalb während der Untersuchung ein Gehörschutz (Ohrstöpsel) getragen werden muss.
+Vor der Teilnahme an einer MRT-Untersuchung führt ein Studienmitarbeiternder ein ausführliches Informationsgespräch mit Ihnen, bei dem mögliche Ausschlusskriterien besprochen werden (z. B. Metallimplantate, Schwangerschaft). Sie können nur an der MRT-Untersuchung teilnehmen, wenn bei Ihnen alle Risikofaktoren ausgeschlossen werden. Sie erhalten eine gesonderte schriftliche Aufklärung und unterzeichnen eine gesonderte Einverständniserklärung.
+
+
+## Einschlusskriterien:
+- Keine neurologischen Vorerkrankungen,
+- keine medizinischen Implantate(Retainer, Zahnspange, Herzschrittmacher, Schrauben etc.),
+- keine Tattoos, keine Klaustrophobie/Panikstörung.,
+- kein eingeschränktes Hörvermögen,
+- gute/korrigierte Sehfähigkeit.
+
+## Vorbereitung
+
+Am Tag der Testung bitte: 
+- kein Make-Up
+- keine Unterwäsche mit Metallbügeln;
+- sollte eine Seheinschränkung vorliegen, tragen Sie bitte Kontaktlinsen.
+
+
