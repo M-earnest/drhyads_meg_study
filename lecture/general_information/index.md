@@ -76,5 +76,8 @@ Solltest du Student der Goethe Universität sein, kannst du auch über die SONA-
 
 [[Neuro] - DRhyaDS- Neuronale Sprachverarbeitung - Part 1 (of 2)](https://uni-frankfurt.sona-systems.com/default.aspx?p_return_experiment_id=780)
 
+### Verantwortliche
+Studienleitung: Michael Ernst (Ernst@psych.uni-frankfurt.de)
+
 
 
