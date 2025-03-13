@@ -2,7 +2,7 @@
 
 Das MEG-Labor befindest sich im Haus 93 des Campus Niederrad. Leider kann dies etwas schwierig zu finden sein, deshalb holen wir Sie am Eingang der Klinik ab. 
 
-#### Nächste Haltestelle: Heinrich-Hoffmannstraße/Blutspendedienst
+Nächste Haltestelle: **Heinrich-Hoffmannstraße/Blutspendedienst**
 
 Den genauen Standort finden Sie hier.
 
