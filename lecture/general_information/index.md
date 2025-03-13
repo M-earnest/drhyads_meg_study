@@ -25,7 +25,7 @@ Dauer: 180 Minuten
 Vergütung: [120VPM/~60€]
 
 Abstrakt: 	
-[120VPM/~60€] Die AG Kognitive Neuropsychologie sucht **deutsche MuttersprachlerInnen** für eine Studie zur Erforschung der neuronalen Sprachverarbeitung. Mithilfe von MEG/MRT messen wir dazu die Hirnaktivität, während TeilnehmerInnen verschiedene Dialoge hören.
+Die AG Kognitive Neuropsychologie sucht **deutsche MuttersprachlerInnen** für eine Studie zur Erforschung der neuronalen Sprachverarbeitung. Mithilfe von MEG/MRT messen wir dazu die Hirnaktivität, während TeilnehmerInnen verschiedene Dialoge hören.
 
 ### Wichtig!
 Da die Labornutzung für unser Team mit hohen Kosten einhergeht, welche nur bei rechtzeitiger Stornierung eines Zeitslots erstattet werden können, achten Sie bitte darauf möglichst mehr als 48 Stunden (idealerweise 60) vor der Testung abzusagen. Vielen Dank!
