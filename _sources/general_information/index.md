@@ -7,7 +7,7 @@ titlesonly: true
 ---
 ```
 
-![diler logo](../static/logo.png)
+![Flab logo](https://fiebachlab.org/assets/images/FiebachLabLogo.png)
 
 
 # [Neuro] - DRhyaDS- Neuronale Sprachverarbeitung - Part 1 (of 2)
