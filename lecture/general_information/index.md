@@ -40,7 +40,7 @@ Bitte beachte Sie zusätzlich die unten angeführten Hinweise zur Testung, i.e. 
 
 Im Anschluss an die Messung wird ein Termin für die nachfolgenden Sitzung (Teil 2) ausgemacht. An diesem Termin wird ein MRT-Bild aufgenommen, um die zeitlich hochauflösenden Aufnahmen des MEGs durch die hohe räumlich Auflösung des MRTs zu ergänzen.
 
-Funtionelle und strukturelle Aufnahmen können bei Interesse nach der Tesung an die jeweiligen ProbandInnen ausgegeben werden
+Funtionelle und strukturelle Aufnahmen können bei Interesse nach der Tesung an die jeweiligen ProbandInnen ausgegeben .
 
 ## Neuroimaging
 
@@ -66,5 +66,16 @@ Am Tag der Testung bitte:
 - kein Make-Up
 - keine Unterwäsche mit Metallbügeln;
 - sollte eine Seheinschränkung vorliegen, tragen Sie bitte Kontaktlinsen.
+
+## Terminbuchung
+
+### E-Mail
+Bei Interesse schreibe bitte einen Mail an: [Ernst@psych.uni-frankfurt.de](Ernst@psych.uni-frankfurt.de)
+
+### Sona
+Solltest du Student der Goethe Universität sein, kannst du auch über die SONA-Plattform unter folgendem Link einen Termin buchen:
+
+[[Neuro] - DRhyaDS- Neuronale Sprachverarbeitung - Part 1 (of 2)](https://uni-frankfurt.sona-systems.com/default.aspx?p_return_experiment_id=780)
+
 
 
