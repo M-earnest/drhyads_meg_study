@@ -10,7 +10,7 @@ titlesonly: true
 ![diler logo](../static/logo.png)
 
 
-# Studieninformation
+# [Neuro] - DRhyaDS- Neuronale Sprachverarbeitung - Part 1 (of 2)
 
 ````{margin}
 ```{warning}
@@ -18,12 +18,13 @@ These pages are currently under construction and will be updated continuously.
 Please visit these pages again in the next few weeks for further information.
 ````
 
-Hello everyone and welcome to the course page for X
+## Studieninformationen
 
-## [Neuro] - DRhyaDS- Neuronale Sprachverarbeitung - Part 1 (of 2)
+Dauer: 180 Minuten
 
-Duration: 180 minutes
-Abstract: 	
+Vergütung: [120VPM/~60€]
+
+Abstrakt: 	
 [120VPM/~60€] Die AG Kognitive Neuropsychologie sucht **deutsche MuttersprachlerInnen** für eine Studie zur Erforschung der neuronalen Sprachverarbeitung. Mithilfe von MEG/MRT messen wir dazu die Hirnaktivität, während TeilnehmerInnen verschiedene Dialoge hören.
 
 ### Wichtig!
@@ -40,9 +41,6 @@ Bitte beachte Sie zusätzlich die unten angeführten Hinweise zur Testung, i.e. 
 Im Anschluss an die Messung wird ein Termin für die nachfolgenden Sitzung (Teil 2) ausgemacht. An diesem Termin wird ein MRT-Bild aufgenommen, um die zeitlich hochauflösenden Aufnahmen des MEGs durch die hohe räumlich Auflösung des MRTs zu ergänzen.
 
 Funtionelle und strukturelle Aufnahmen können bei Interesse nach der Tesung an die jeweiligen ProbandInnen ausgegeben werden
-
-#### WICHTIG: Bei einer Absage auf Grund von Krankheit etc. bitten wir um eine frühzeitige Absage, da jede wir für jede Testung einen verbindlichen MEG-Termin buchen müssen.
-
 
 ## Neuroimaging
 
