@@ -43,11 +43,10 @@ Funtionelle und strukturelle Aufnahmen können bei Interesse nach der Tesung an 
 
 ## Neuroimaging
 
-### MEG:
+#### MEG:
 Die Magnetoencephalographie ist eine passive und kontaktlose Messung der elektrischen Aktivität Ihres Gehirns. Die elektrischen Ströme, welche in den Nervenzellen Ihres Gehirns fließen, erzeugen winzige Magnetfelder. Diese werden bei der MEG-Messung von sehr empfindlichen Sensoren aufgenommen, die auf eine Umgebung ohne zusätzliche Störungen z.B. von elektrischen Geräten angewiesen sind. Zu diesem Zweck ist das MEG in einem abgeschirmten Untersuchungsraum untergebracht. Risiken und Nebenwirkungen der MEG-Untersuchung sind nach derzeitigem Kenntnisstand nicht bekannt.
 
-
-### MRT:
+#### MRT:
 Die Magnetresonanztomografie (MRT) basiert auf einem starken statischen Magnetfeld und magnetischen Wechselfeldern. Es wird keine Röntgenstrahlung oder andere ionisierende Strahlung verwendet. Während der Untersuchung liegen Sie als TeilnehmerIn in der röhrenförmigen Bohrung eines großen Magneten. Risiken können hier bei metallischen oder magnetischen Gegenstände, die sich an oder in Ihrem Körper befinden, auftreten. Zusätzlich wird es währned der MRT-Untersuchung zu einer starken Geräuschentwicklung kommen, weshalb während der Untersuchung ein Gehörschutz (Ohrstöpsel) getragen werden muss.
 Vor der Teilnahme an einer MRT-Untersuchung führt ein Studienmitarbeiternder ein ausführliches Informationsgespräch mit Ihnen, bei dem mögliche Ausschlusskriterien besprochen werden (z. B. Metallimplantate, Schwangerschaft). Sie können nur an der MRT-Untersuchung teilnehmen, wenn bei Ihnen alle Risikofaktoren ausgeschlossen werden. Sie erhalten eine gesonderte schriftliche Aufklärung und unterzeichnen eine gesonderte Einverständniserklärung.
 
@@ -68,10 +67,10 @@ Am Tag der Testung bitte:
 
 ## Terminbuchung
 
-### E-Mail
+#### E-Mail
 Bei Interesse schreibe bitte einen Mail an: [Ernst@psych.uni-frankfurt.de](Ernst@psych.uni-frankfurt.de)
 
-### Sona
+#### Sona
 Solltest du Student der Goethe Universität sein, kannst du auch über die SONA-Plattform unter folgendem Link einen Termin buchen:
 
 [[Neuro] - DRhyaDS- Neuronale Sprachverarbeitung - Part 1 (of 2)](https://uni-frankfurt.sona-systems.com/default.aspx?p_return_experiment_id=780)
