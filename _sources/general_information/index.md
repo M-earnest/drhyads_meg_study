@@ -68,7 +68,7 @@ Am Tag der Testung bitte:
 ## Terminbuchung
 
 #### E-Mail
-Bei Interesse schreibe bitte einen Mail an: [Ernst@psych.uni-frankfurt.de](Ernst@psych.uni-frankfurt.de)
+Bei Interesse schreibe bitte einen Mail an: Ernst@psych.uni-frankfurt.de
 
 #### Sona
 Solltest du Student der Goethe Universität sein, kannst du auch über die SONA-Plattform unter folgendem Link einen Termin buchen:
