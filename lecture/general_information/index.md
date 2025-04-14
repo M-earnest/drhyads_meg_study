@@ -63,6 +63,7 @@ Vor der Teilnahme an einer MRT-Untersuchung führt ein Studienmitarbeiternder ei
 Am Tag der Testung bitte: 
 - kein Make-Up
 - keine Unterwäsche mit Metallbügeln;
+- bitte enferne alle Piercings (idealerweise bereits bevor du zur Testung erscheinst)
 - sollte eine Seheinschränkung vorliegen, tragen Sie bitte Kontaktlinsen.
 
 ## Terminbuchung
