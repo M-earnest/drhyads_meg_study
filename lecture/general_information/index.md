@@ -65,6 +65,7 @@ Am Tag der Testung bitte:
 - keine Unterwäsche mit Metallbügeln;
 - bitte enferne alle Piercings (idealerweise bereits bevor du zur Testung erscheinst)
 - sollte eine Seheinschränkung vorliegen, tragen Sie bitte Kontaktlinsen.
+- reinigen sie ihre Ohren vor der Testung bitte gründlich
 
 ## Terminbuchung
 
